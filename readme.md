@@ -1,9 +1,8 @@
 # Jsintro
 
-ctrl+n -> new file
-
-skriv något
-
-ctrl+s -> save
-
-readme.md
+* variabler
+* datatyper
+* operatorer
+* selektion (välja, if)
+* iteration (upprepning)
+* funktioner
