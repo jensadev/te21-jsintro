@@ -13,8 +13,9 @@ let i;
 for (let i = 0; i < 10; i++) {
     const NAME = "Sture"
     console.log(NAME)
+    var bosse = "tuff"
 }
-console.log(i)
+console.log(bosse)
 var skola = "NTI"
 console.log(skola)
 
